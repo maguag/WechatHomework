@@ -1,4 +1,4 @@
-# WechatHomework
+# WechatHomework     ***基于wxpy
 微信群接收作业（图片），保存至本地
 
 功能：接收所有图片消息，按照群成员名称创建文件夹并保存图片
